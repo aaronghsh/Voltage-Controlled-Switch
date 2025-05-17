@@ -1,6 +1,6 @@
 # Voltage Controlled Switches 🔌
 
-Welcome to the Voltage Controlled Switches project! This project investigates the behavior of real vs ideal electronic switches, with a focus on **MOSFET-based switch designs**. It includes simulations, physical testing, waveform analysis, and performance evaluation of two different switch configurations.
+This project investigates the behavior of real vs ideal electronic switches, with a focus on **MOSFET-based switch designs**. It includes simulations, physical testing, waveform analysis, and performance evaluation of two different switch configurations.
 
 ---
 
